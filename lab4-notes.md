@@ -20,3 +20,23 @@
  
 8) 8a91688
    These characters are used to uniquely identify a particular commit.
+
+9) -> Git status tell us the state of affairs inside our folder.
+   -> Next, we add the file a sort of temporary area or "staging area", as I understand it, to prepare it for the next step.
+   -> We now commit the file so the changes are now visible to other collaborators.
+   -> git log tells shows us a compressed version of all the past commits, we see two commits.
+
+10) It's got a special name because it tells visitors in your repo what it's about without having to dive in deeper.
+
+11) gh auth login connected git on my laptop to github on my browser which means i won't be asked for a password when pushing because
+    it knows who it is.
+
+12) The fornt page shows all my lab files because it's what we pushed into the repo.
+
+13) No, it didn't change my local history.
+
+14) A repo being private means it's not visible to anyone but myself and the collaborators. If it doesn't exist on github it just means 
+    it's stored locally and changes can't be tracked.
+
+    
+
